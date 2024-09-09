@@ -5,7 +5,6 @@
 ### Education
 Miami Dade College Completed Credits Towards a 
 - BASc Computer Engineering
-  
 IBM
 - Data Analyst Professional Certificate
   
