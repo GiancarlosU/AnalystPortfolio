@@ -3,13 +3,16 @@
 #### Technical Skills: Python, SQL, Excel, Tableau, Power BI
 
 ### Education
-**Miami Dade College Completed Credits Towards a 
+Miami Dade College Completed Credits Towards a 
 - BASc Computer Engineering
-**IBM
+  
+IBM
 - Data Analyst Professional Certificate
-**UCDAVIS
+  
+UCDAVIS
 - SQL for Data Science
-**Google
+  
+Google
 - Data Analytics Professional Certificate
 - Get Started with Python
 
