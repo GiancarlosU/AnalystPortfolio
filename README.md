@@ -6,16 +6,20 @@
 Miami Dade College
 Completed Credits Towards a 
 - BASc Computer Engineering
-IBM -Data Analyst Professional Certificate
-UCDAVIS -SQL for Data Science
-Google -Data Analytics Professional Certificate
-Google -Get Started with Python
+IBM
+- Data Analyst Professional Certificate
+UCDAVIS
+- SQL for Data Science
+Google
+- Data Analytics Professional Certificate
+- Get Started with Python
 
 ## Projects
 ### Data-Driven Dashboard on Bike Rides in London
 
-This data analyst portfolio project features a dashboard visualizing bike rides in London, correlated with climate data and wind speeds. The interactive dashboard displays key insights, such as the total number of rides taken, trends in usage based on weather conditions, and the influence of wind speed on ridership. I started by gathering the data and utilized Python with the pandas library to explore, assess, and manipulate the information. After cleaning and analyzing the data, I created a visually appealing, data-driven dashboard designed for easy navigation and user-friendly interpretation of thousands of data points. 
 ![London Bike Rides](/assets/img/London_Bike_Rides_Dashboard.png)
+
+This data analyst portfolio project features a dashboard visualizing bike rides in London, correlated with climate data and wind speeds. The interactive dashboard displays key insights, such as the total number of rides taken, trends in usage based on weather conditions, and the influence of wind speed on ridership. I started by gathering the data and utilized Python with the pandas library to explore, assess, and manipulate the information. After cleaning and analyzing the data, I created a visually appealing, data-driven dashboard designed for easy navigation and user-friendly interpretation of thousands of data points. 
 
 ### Experience 
 **Realtor @ Best International Realty (_2023 - Present_)**
