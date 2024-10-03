@@ -1,4 +1,4 @@
-# Business Analyst HR_Dashboard_Page_2.png
+# Business Analyst 
 
 #### Technical Skills: Python, SQL, Excel, Tableau, Power BI
 
