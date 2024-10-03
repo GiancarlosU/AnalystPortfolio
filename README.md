@@ -1,4 +1,4 @@
-# Business Analyst
+# Business Analyst HR_Dashboard_Page_2.png
 
 #### Technical Skills: Python, SQL, Excel, Tableau, Power BI
 
@@ -8,6 +8,20 @@
 ![London Bike Rides](/Assets/img/London_Bike_Rides_Dashboard.png)
 
 This data analyst portfolio project features a dashboard visualizing bike rides in London, correlated with climate data and wind speeds. The interactive dashboard displays key insights, such as the total number of rides taken, trends in usage based on weather conditions, and the influence of wind speed on ridership. I started by gathering the data and utilized Python with the pandas library to explore, assess, and manipulate the information. After cleaning and analyzing the data, I created a visually appealing, data-driven dashboard designed for easy navigation and user-friendly interpretation of thousands of data points. 
+
+### Human Resources Dashboard Project
+
+![HR Dashboard](/Assets/img/HR_Dashboard_Page_1.png)
+![HR Dashboard](/Assets/img/HR_Dashboard_Page_2.png)
+
+In this Data Analyst project, I developed a Human Resources Dashboard designed to provide insights into employees' marital status, gender, and age across different departments. Using employee data, I built a dashboard that allows HR managers to filter and search for specific employee information based on these key demographics.
+
+The project involved:
+
+Data extraction and cleaning: I gathered data using Excel and Python, ensuring it was accurate and complete.
+Data transformation: I structured the data to categorize employees by department, marital status (single, married, etc.), gender, and age groups.
+Data visualization: Using Power BI, I created interactive visualizations, using several pie charts, that display the distribution of marital status, gender ratio, and age range per department.
+This dashboard helps HR teams quickly access demographic information, make informed decisions on workforce diversity, and track trends in employee demographics across departments.
 
 ### Education
 Miami Dade College Completed Credits Towards a 
